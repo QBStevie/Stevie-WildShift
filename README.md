@@ -17,6 +17,9 @@ This FiveM resource lets players use potions to transform into animals with adva
 - **HUD timer** showing remaining transformation time
 - **Server-side logging** of transform/revert actions
 
+- https://ko-fi.com/irishstevie
+- 
+
 ## Installation
 
 1. Place this folder in your `resources/[local]/` directory.
