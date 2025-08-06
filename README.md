@@ -2,6 +2,9 @@
 
 # I have not tested this Was just fucking around <3>
 
+If you wanna know why i did not test it was watching 
+https://www.youtube.com/watch?v=YR65AvfELwI
+
 This FiveM resource lets players use potions to transform into animals with advanced features:
 
 - **Multiple animal forms** (wolf, husky, cat), each configurable with:
@@ -19,7 +22,7 @@ This FiveM resource lets players use potions to transform into animals with adva
 1. Place this folder in your `resources/[local]/` directory.
 2. Add to your `server.cfg`:
    ```cfg
-   ensure your_resource_folder_name
+   ensure Stevie-WildShift
    ```
 3. Install **ox_inventory** or **qb-inventory** and ensure it is started.
 4. Install dependencies **illenium-appearance** and **qb-clothing**.
