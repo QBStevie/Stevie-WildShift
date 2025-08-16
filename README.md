@@ -1,6 +1,6 @@
 # Animal Transformation Resource
 
-# I have not tested this Was just fucking around <3>
+# I have not tested this Was just fucking around<3>
 
 If you wanna know why i did not test it was watching 
 https://www.youtube.com/watch?v=YR65AvfELwI
